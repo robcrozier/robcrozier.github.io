@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+/*body text/*also look at gaudy bookletter 1911?*/
+
+@import url(https://fonts.googleapis.com/css?family=Playball);
+@import url(https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911);
+/*possible banner text*/
+@import url(https://fonts.googleapis.com/css?family=Molle:400italic);
+@import url(https://fonts.googleapis.com/css?family=Niconne);
+
+
+
+title{ 
+	
+
+}
+
+body{
+	
+	background-color: black;
+
+}
+
+
+h1{
+	
+	color: white;
+	background: black;
+	/*height:100px;*/
+	text-align: center;
+	font-family: 'Goudy Bookletter 1911', serif;
+	/*margin-top:auto;*/
+
+}
+
+
+header{
+	background-image: url("../images/coffeehero.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+
+	height:750px;
+
+}
+
+p{
+	margin-left:555px;
+	/*margin-right: 300px;*/
+	color: white;
+	font-size:75px;
+}
+
+
+h2{
+	background-color: rgb(255,109,53);
+}
+
+
+section{
+
+	text-align: center;
+	font-family: 'Goudy Bookletter 1911', serif;
+}
+
+
+head{
+
+
+}
+
+
+nav{
+	width:150px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+span{
+	color: rgb(255,109,53);
+	font-family: 'Niconne', cursive;
+	font-size: 100px;
+	letter-spacing: 7px;
+}
+
+div{
+	
+
+
+
+}
+
+.navlinks{
+	margin:8px;
+	text-decoration: none;
+}
+}
+.buttons{
+	height:75px;
+	width: 75px;
+	color: yellow;
+}
+.story{
+
+	background-color: rgb(255,109,53);
+	
+}
+
+
+
+}
+
+
+
+
+
+
+
