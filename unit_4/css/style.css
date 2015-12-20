@@ -17,6 +17,7 @@ title{
 body{
 	
 	background-color: black;
+	margin:auto;
 
 }
 
@@ -24,8 +25,10 @@ body{
 h1{
 	
 	color: white;
-	background: black;
-	/*height:100px;*/
+	margin:auto;
+	background-image: url("../images/woodbackground.jpg");
+	/*background: black;*/
+	height:100px;
 	text-align: center;
 	font-family: 'Goudy Bookletter 1911', serif;
 	/*margin-top:auto;*/
@@ -37,7 +40,7 @@ header{
 	background-image: url("../images/coffeehero.jpg");
 	background-repeat: no-repeat;
 	background-size:cover;
-
+	margin:auto;
 	height:750px;
 
 }
