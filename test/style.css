@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+/*body text/*also look at gaudy bookletter 1911?*/
+
+@import url(https://fonts.googleapis.com/css?family=Playball);
+@import url(https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911);
+/*possible banner text*/
+@import url(https://fonts.googleapis.com/css?family=Molle:400italic);
+@import url(https://fonts.googleapis.com/css?family=Niconne);
+
+body{
+
+	background-color: black;
+	color: white;
+}
+
+h1{
+	text-align: center;
+	color: #;
+	font-family: Niconne;
+
+}
+
+h2{
+	font-family: Molle:400italic;
+	text-align: center;
+	margin-left: 30%;
+	margin-right: 30%
+
+}
+
+div{
+
+}
+
+header{
+	background-image:url("images/hero.jpg");
+	background-repeat: no-repeat;
+	margin:auto;
+	background-size: cover;
+	
+
+}
+
+
+p{
+
+
+
+}
+
+a{
+
+
+
+}
+
+footer{
+
+}
+
+
+.navlinks{
+
+}
+
+
+
+
+
+
+
+
+
+
