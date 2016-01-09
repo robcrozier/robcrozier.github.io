@@ -42,9 +42,9 @@ header{
 	background-size:cover;
 	margin:auto;
 	height:750px;
-    background-color: #FFED74;
+    /*background-color: #FFED74;
     border: 1px black solid;
-    padding: 20px;
+    padding: 20px;*/
 
 }
 
@@ -53,43 +53,37 @@ p{
 
 
 h2{
-	background-color: rgb(255,109,53);
+	background-color: rgb(252, 54, 14);
 	margin-top: 0em;
 }
 
 
 section{
 
-	text-align: center;
-	font-family: 'Goudy Bookletter 1911', serif;
-	margin-left:30%;
-	margin-right:30%;
-	background-color: [enter color here];
-    border: 1px black solid;
-    padding: 20px;
+	
 }
 
 
 
 
 nav{
-	background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;
+	/*background-color: #E8C66A;*/
+   /* border: 1px black solid;
+    padding: 20px;*/
 
 }
 
 span{
-	color: rgb(255,109,53);
+	color: rgb(252, 54, 14);
 	font-family: 'Niconne', cursive;
 	font-size: 145px;
 	letter-spacing: 7px;
 }
 
 div{
-	background-color:#FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
+	/*background-color:#FFE2B8;*/
+    /*border: 1px black solid;
+    padding: 20px;*/
 
 
 
@@ -114,8 +108,14 @@ a{
 	color: yellow;
 }
 .story{
-
-	background-color: rgb(255,109,53);
+	text-align: center;
+	font-family: 'Goudy Bookletter 1911', serif;
+	margin-left:30%;
+	margin-right:30%;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    padding: 20px;
+	/*background-color: rgb(255,109,53);*/
 	
 }
 
@@ -130,10 +130,10 @@ a{
 	float: left;
 	border-width: 30px;
 	
-	background-color: #E8C66A;
-    border: 1px black solid;
+	/*background-color: #E8C66A;*/
+    /*border: 1px black solid;
     padding: 20px;
-}
+}*/
 /*
 .wrapper{
 background-color: #FFE2B8;
